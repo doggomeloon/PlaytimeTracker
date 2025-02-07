@@ -1,0 +1,8 @@
+name: PlaytimeTracker
+version: '0.1'
+main: org.doggomelon.playtimeTracker.PlaytimeTracker
+api-version: '1.21'
+commands:
+  playtime:
+    description: Check your total playtime
+    usage: /playtime
